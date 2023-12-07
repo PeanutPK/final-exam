@@ -3,3 +3,7 @@
 - Fork, then, clone this repo
 - Read the instructions given in the course's Google Classroom and start coding
 - Once you are done, push your final code to your Github repo and modify this README to report on the work you have done
+
+# What I did
+- change them into oop and draw all polygons
+- No bugs but codes are not beautiful and not clean
