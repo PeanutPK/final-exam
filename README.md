@@ -6,4 +6,5 @@
 
 # What I did
 - change them into oop and draw all polygons
+- my codes are in OOpolygon_art.py
 - No bugs but codes are not beautiful and not clean
